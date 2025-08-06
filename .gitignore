@@ -1,4 +1,2 @@
-smlfmt
-demo
-demo.dbg
 .DS_Store
+build/
